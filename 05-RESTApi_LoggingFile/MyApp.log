@@ -1,0 +1,5 @@
+2023-10-04 04:53:30,374 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [in.ashokit.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-04 04:53:30,645 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration in.ashokit.Application for test class in.ashokit.ApplicationTests
+2023-10-04 04:53:31,279 [main] INFO  in.ashokit.ApplicationTests                        - Starting ApplicationTests using Java 17.0.5 with PID 5804 (started by Laxman in D:\Ashokit\24_JRTP\05-RESTApi_LoggingFile)
+2023-10-04 04:53:31,281 [main] INFO  in.ashokit.ApplicationTests                        - No active profile set, falling back to 1 default profile: "default"
+2023-10-04 04:53:34,516 [main] INFO  in.ashokit.ApplicationTests                        - Started ApplicationTests in 3.609 seconds (process running for 5.587)

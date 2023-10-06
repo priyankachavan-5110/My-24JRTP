@@ -1,0 +1,339 @@
+2023-10-03 01:11:35,640 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:11:35,645 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:11:35,761 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-03 01:11:35,762 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-03 01:11:36,703 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:11:36,711 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:11:36,713 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:11:36,713 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:11:36,774 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:11:36,774 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1010 ms
+2023-10-03 01:11:37,122 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:11:37,137 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:11:37,159 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:11:37,169 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 1.984 seconds (process running for 3.218)
+2023-10-03 01:12:23,477 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 7 class path changes (0 additions, 6 deletions, 1 modification)
+2023-10-03 01:12:23,526 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:23,526 [Thread-5] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:12:23,559 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:23,562 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:23,694 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:12:23,695 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:12:24,292 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:12:24,293 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:24,293 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:12:24,293 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:12:24,320 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:12:24,321 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 619 ms
+2023-10-03 01:12:24,485 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:12:24,494 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:24,498 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:12:24,512 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.894 seconds (process running for 50.56)
+2023-10-03 01:12:24,515 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:12:25,965 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2023-10-03 01:12:25,979 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:25,980 [Thread-7] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:12:25,982 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:25,984 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:26,061 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:12:26,061 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:12:26,414 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:12:26,414 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:26,415 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:12:26,415 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:12:26,444 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:12:26,445 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 369 ms
+2023-10-03 01:12:26,599 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:12:26,606 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:12:26,610 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:12:26,615 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.59 seconds (process running for 52.665)
+2023-10-03 01:12:26,618 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:12:27,142 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [in.ashokit.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-03 01:12:27,286 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration in.ashokit.Application for test class in.ashokit.ApplicationTests
+2023-10-03 01:12:27,913 [main] INFO  in.ashokit.ApplicationTests                        - Starting ApplicationTests using Java 17.0.5 with PID 11368 (started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:12:27,915 [main] INFO  in.ashokit.ApplicationTests                        - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:12:29,547 [main] INFO  in.ashokit.ApplicationTests                        - Started ApplicationTests in 2.023 seconds (process running for 3.982)
+2023-10-03 01:13:41,308 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 5 class path changes (0 additions, 2 deletions, 3 modifications)
+2023-10-03 01:13:41,333 [Thread-11] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:13:41,333 [Thread-11] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:13:41,337 [Thread-11] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:13:41,340 [Thread-11] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-8080"]
+2023-10-03 01:14:34,407 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:14:34,408 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:14:34,764 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:14:34,766 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:14:34,766 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:14:34,803 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:14:34,804 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 391 ms
+2023-10-03 01:14:34,916 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:14:34,930 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:14:34,935 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.604 seconds (process running for 180.985)
+2023-10-03 01:14:34,939 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:14:36,347 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2023-10-03 01:14:36,359 [Thread-23] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:14:36,435 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:14:36,435 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:14:36,733 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:14:36,734 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:14:36,734 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:14:36,750 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:14:36,750 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 312 ms
+2023-10-03 01:14:36,826 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:14:36,843 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:14:36,847 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.449 seconds (process running for 182.896)
+2023-10-03 01:14:36,848 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:14:37,406 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [in.ashokit.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-03 01:14:37,564 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration in.ashokit.Application for test class in.ashokit.ApplicationTests
+2023-10-03 01:14:38,193 [main] INFO  in.ashokit.ApplicationTests                        - Starting ApplicationTests using Java 17.0.5 with PID 11068 (started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:14:38,195 [main] INFO  in.ashokit.ApplicationTests                        - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:14:40,253 [main] INFO  in.ashokit.ApplicationTests                        - Started ApplicationTests in 2.462 seconds (process running for 4.31)
+2023-10-03 01:14:51,575 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2023-10-03 01:14:51,587 [Thread-27] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:14:51,651 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:14:51,651 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:14:51,825 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:14:51,826 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:14:51,826 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:14:51,840 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:14:51,840 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 188 ms
+2023-10-03 01:14:51,901 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:14:51,909 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:14:51,912 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.286 seconds (process running for 197.961)
+2023-10-03 01:14:51,914 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:22:14,489 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-03 01:22:14,516 [Thread-31] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:22:14,582 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:22:14,583 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:22:14,718 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:22:14,718 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:22:14,718 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:22:14,733 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:22:14,733 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 149 ms
+2023-10-03 01:22:14,813 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:22:14,823 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:22:14,830 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.266 seconds (process running for 640.879)
+2023-10-03 01:22:14,831 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:55:44,316 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2023-10-03 01:55:44,330 [Thread-35] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:55:44,406 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:55:44,406 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:55:44,580 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:55:44,580 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:55:44,581 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:55:44,601 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:55:44,601 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 193 ms
+2023-10-03 01:55:44,709 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:55:44,717 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:55:44,722 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.344 seconds (process running for 2650.771)
+2023-10-03 01:55:44,723 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:55:59,378 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 7 class path changes (0 additions, 6 deletions, 1 modification)
+2023-10-03 01:55:59,394 [Thread-39] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 01:55:59,499 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:55:59,500 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:56:01,159 [restartedMain] ERROR o.springframework.boot.SpringApplication           - Application run failed
+java.lang.NullPointerException: Cannot read field "generatedClass" because "data" is null
+	at org.springframework.cglib.proxy.Enhancer.nextInstance(Enhancer.java:783)
+	at org.springframework.cglib.core.AbstractClassGenerator.create(AbstractClassGenerator.java:321)
+	at org.springframework.cglib.proxy.Enhancer.createHelper(Enhancer.java:562)
+	at org.springframework.cglib.proxy.Enhancer.createClass(Enhancer.java:407)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.createClass(ConfigurationClassEnhancer.java:138)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer.enhance(ConfigurationClassEnhancer.java:109)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.enhanceConfigurationClasses(ConfigurationClassPostProcessor.java:531)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanFactory(ConfigurationClassPostProcessor.java:308)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:358)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:150)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:771)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:589)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:737)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at in.ashokit.Application.main(Application.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+2023-10-03 01:56:02,858 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-03 01:56:02,859 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-03 01:56:02,868 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:56:02,869 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:56:03,428 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 01:56:03,430 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 01:56:03,430 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 01:56:03,449 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 01:56:03,449 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 575 ms
+2023-10-03 01:56:03,632 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 01:56:03,649 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 01:56:03,655 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.827 seconds (process running for 2669.705)
+2023-10-03 01:56:03,657 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 01:56:05,389 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [in.ashokit.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-03 01:56:05,549 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration in.ashokit.Application for test class in.ashokit.ApplicationTests
+2023-10-03 01:56:06,168 [main] INFO  in.ashokit.ApplicationTests                        - Starting ApplicationTests using Java 17.0.5 with PID 10660 (started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 01:56:06,171 [main] INFO  in.ashokit.ApplicationTests                        - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 01:56:07,912 [main] INFO  in.ashokit.ApplicationTests                        - Started ApplicationTests in 2.106 seconds (process running for 4.0)
+2023-10-03 03:42:42,114 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-03 03:42:42,224 [Thread-43] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 03:42:42,409 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 5824 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 03:42:42,410 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 03:42:42,666 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 03:42:42,666 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 03:42:42,667 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 03:42:42,689 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 03:42:42,690 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 278 ms
+2023-10-03 03:42:42,803 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 03:42:42,819 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 03:42:42,825 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.446 seconds (process running for 9068.836)
+2023-10-03 03:42:42,827 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 03:42:46,812 [RMI TCP Connection(154)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2023-10-03 03:42:46,825 [RMI TCP Connection(154)-127.0.0.1] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 03:43:27,299 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 15672 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 03:43:27,303 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 03:43:27,381 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-03 03:43:27,381 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-03 03:43:28,441 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 03:43:28,451 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:28,454 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 03:43:28,455 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 03:43:28,530 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 03:43:28,531 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1149 ms
+2023-10-03 03:43:28,902 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 03:43:28,918 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:28,943 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 03:43:28,955 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 2.075 seconds (process running for 3.192)
+2023-10-03 03:43:41,508 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 7 class path changes (0 additions, 6 deletions, 1 modification)
+2023-10-03 03:43:41,533 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:41,533 [Thread-5] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 03:43:41,543 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:41,547 [Thread-5] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:41,692 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 15672 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 03:43:41,692 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 03:43:42,173 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 03:43:42,175 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:42,175 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 03:43:42,176 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 03:43:42,221 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 03:43:42,222 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 520 ms
+2023-10-03 03:43:42,452 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 03:43:42,464 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:42,472 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 03:43:42,484 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.899 seconds (process running for 16.721)
+2023-10-03 03:43:42,490 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 03:43:43,932 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2023-10-03 03:43:43,944 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:43,944 [Thread-7] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 03:43:43,947 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:43,949 [Thread-7] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:44,030 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 15672 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 03:43:44,030 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 03:43:44,291 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 03:43:44,292 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:44,295 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 03:43:44,296 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 03:43:44,325 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 03:43:44,325 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 291 ms
+2023-10-03 03:43:44,443 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 03:43:44,458 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:43:44,470 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 03:43:44,476 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 0.48 seconds (process running for 18.713)
+2023-10-03 03:43:44,479 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener  - Condition evaluation unchanged
+2023-10-03 03:43:45,281 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [in.ashokit.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-03 03:43:45,445 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration in.ashokit.Application for test class in.ashokit.ApplicationTests
+2023-10-03 03:43:46,190 [main] INFO  in.ashokit.ApplicationTests                        - Starting ApplicationTests using Java 17.0.5 with PID 16536 (started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 03:43:46,192 [main] INFO  in.ashokit.ApplicationTests                        - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 03:43:48,067 [main] INFO  in.ashokit.ApplicationTests                        - Started ApplicationTests in 2.279 seconds (process running for 4.264)
+2023-10-03 03:57:36,884 [RMI TCP Connection(16)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2023-10-03 03:57:36,898 [RMI TCP Connection(16)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:57:36,898 [RMI TCP Connection(16)-127.0.0.1] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 03:57:36,901 [RMI TCP Connection(16)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2023-10-03 03:57:36,903 [RMI TCP Connection(16)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Destroying ProtocolHandler ["http-nio-8080"]
+2023-10-03 04:51:27,342 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [in.ashokit.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-03 04:51:27,482 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration in.ashokit.Application for test class in.ashokit.ApplicationTests
+2023-10-03 04:51:28,137 [main] INFO  in.ashokit.ApplicationTests                        - Starting ApplicationTests using Java 17.0.5 with PID 13256 (started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 04:51:28,139 [main] INFO  in.ashokit.ApplicationTests                        - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 04:51:29,909 [main] INFO  in.ashokit.ApplicationTests                        - Started ApplicationTests in 2.167 seconds (process running for 3.97)
+2023-10-03 04:51:51,465 [restartedMain] INFO  in.ashokit.Application                             - Starting Application using Java 17.0.5 with PID 2648 (D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 04:51:51,469 [restartedMain] INFO  in.ashokit.Application                             - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 04:51:51,541 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-03 04:51:51,541 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor    - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-03 04:51:52,491 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat initialized with port(s): 8080 (http)
+2023-10-03 04:51:52,501 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-03 04:51:52,505 [restartedMain] INFO  o.apache.catalina.core.StandardService             - Starting service [Tomcat]
+2023-10-03 04:51:52,506 [restartedMain] INFO  org.apache.catalina.core.StandardEngine            - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-03 04:51:52,572 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring embedded WebApplicationContext
+2023-10-03 04:51:52,573 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext     - Root WebApplicationContext: initialization completed in 1031 ms
+2023-10-03 04:51:52,977 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer                 - LiveReload server is running on port 35729
+2023-10-03 04:51:53,002 [restartedMain] INFO  o.apache.coyote.http11.Http11NioProtocol           - Starting ProtocolHandler ["http-nio-8080"]
+2023-10-03 04:51:53,033 [restartedMain] INFO  o.s.b.w.embedded.tomcat.TomcatWebServer            - Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-03 04:51:53,047 [restartedMain] INFO  in.ashokit.Application                             - Started Application in 1.969 seconds (process running for 3.01)
+2023-10-03 04:52:10,735 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-03 04:52:10,736 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Initializing Servlet 'dispatcherServlet'
+2023-10-03 04:52:10,738 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet                  - Completed initialization in 2 ms
+2023-10-03 04:52:16,633 [http-nio-8080-exec-3] INFO  i.a.restcontroller.MsgRestController               - welcome() execution start
+2023-10-03 04:52:16,634 [http-nio-8080-exec-3] INFO  i.a.restcontroller.MsgRestController               - welcome() execution end
+2023-10-03 04:52:53,269 [http-nio-8080-exec-4] INFO  i.a.restcontroller.ProductRestController           - getProductInfo() execution start
+2023-10-03 04:52:53,281 [http-nio-8080-exec-4] ERROR o.a.c.c.C.[.[.[/].[dispatcherServlet]              - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.NullPointerException: Cannot invoke "String.length()" because "msg" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "String.length()" because "msg" is null
+	at in.ashokit.restcontroller.ProductRestController.getProductInfo(ProductRestController.java:17)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1740)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-10-03 04:53:34,799 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2023-10-03 04:53:34,814 [RMI TCP Connection(5)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Pausing ProtocolHandler ["http-nio-8080"]
+2023-10-03 04:53:34,814 [RMI TCP Connection(5)-127.0.0.1] INFO  o.apache.catalina.core.StandardService             - Stopping service [Tomcat]
+2023-10-03 04:53:34,816 [RMI TCP Connection(5)-127.0.0.1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]                 - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-10-03 04:53:34,823 [RMI TCP Connection(5)-127.0.0.1] INFO  o.apache.coyote.http11.Http11NioProtocol           - Stopping ProtocolHandler ["http-nio-8080"]
+2023-10-03 04:55:47,703 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils       - Could not detect default configuration classes for test class [in.ashokit.ApplicationTests]: ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-10-03 04:55:47,868 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper        - Found @SpringBootConfiguration in.ashokit.Application for test class in.ashokit.ApplicationTests
+2023-10-03 04:55:48,552 [main] INFO  in.ashokit.ApplicationTests                        - Starting ApplicationTests using Java 17.0.5 with PID 11696 (started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\05-RESTApi_LoggingFile)
+2023-10-03 04:55:48,555 [main] INFO  in.ashokit.ApplicationTests                        - No active profile set, falling back to 1 default profile: "default"
+2023-10-03 04:55:50,321 [main] INFO  in.ashokit.ApplicationTests                        - Started ApplicationTests in 2.196 seconds (process running for 4.069)

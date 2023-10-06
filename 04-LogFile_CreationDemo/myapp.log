@@ -1,0 +1,73 @@
+2023-10-02T03:12:48.328-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Starting Application using Java 17.0.5 with PID 13408 (D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation)
+2023-10-02T03:12:48.331-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T03:12:48.405-07:00  INFO 13408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-02T03:12:48.406-07:00  INFO 13408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-02T03:12:49.377-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-10-02T03:12:49.390-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-02T03:12:49.390-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-02T03:12:49.459-07:00  INFO 13408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-02T03:12:49.460-07:00  INFO 13408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1030 ms
+2023-10-02T03:12:49.817-07:00  INFO 13408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-10-02T03:12:49.860-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-02T03:12:49.870-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Started Application in 1.989 seconds (process running for 2.832)
+2023-10-02T03:13:26.571-07:00  INFO 13408 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-02T03:13:26.572-07:00  INFO 13408 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-10-02T03:13:26.574-07:00  INFO 13408 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2023-10-02T03:13:26.622-07:00  INFO 13408 --- [http-nio-8080-exec-1] i.a.restcontroller.MsgRestController     : this is log - info msg
+2023-10-02T03:13:26.622-07:00  WARN 13408 --- [http-nio-8080-exec-1] i.a.restcontroller.MsgRestController     : this is log - warn msg
+2023-10-02T03:13:26.622-07:00 ERROR 13408 --- [http-nio-8080-exec-1] i.a.restcontroller.MsgRestController     : this is log - error msg
+2023-10-02T03:15:51.711-07:00  INFO 13408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-02T03:15:51.747-07:00  INFO 13408 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-02T03:15:51.749-07:00  INFO 13408 --- [Thread-5] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-10-02T03:15:51.829-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Starting Application using Java 17.0.5 with PID 13408 (D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation)
+2023-10-02T03:15:51.829-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T03:15:52.073-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-10-02T03:15:52.074-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-02T03:15:52.075-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-02T03:15:52.097-07:00  INFO 13408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-02T03:15:52.098-07:00  INFO 13408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 265 ms
+2023-10-02T03:15:52.230-07:00  INFO 13408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-10-02T03:15:52.246-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-02T03:15:52.254-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Started Application in 0.451 seconds (process running for 185.216)
+2023-10-02T03:15:52.257-07:00  INFO 13408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-10-02T03:16:48.236-07:00  INFO 13408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-02T03:16:48.252-07:00  INFO 13408 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-02T03:16:48.346-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Starting Application using Java 17.0.5 with PID 13408 (D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation)
+2023-10-02T03:16:48.346-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T03:16:48.641-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-10-02T03:16:48.642-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-02T03:16:48.642-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-02T03:16:48.674-07:00  INFO 13408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-02T03:16:48.675-07:00  INFO 13408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 324 ms
+2023-10-02T03:16:48.754-07:00  INFO 13408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-10-02T03:16:48.763-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-02T03:16:48.768-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Started Application in 0.459 seconds (process running for 241.731)
+2023-10-02T03:16:48.770-07:00  INFO 13408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-10-02T03:19:06.740-07:00  INFO 13408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-02T03:19:06.756-07:00  INFO 13408 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-02T03:19:06.816-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Starting Application using Java 17.0.5 with PID 13408 (D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation)
+2023-10-02T03:19:06.816-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T03:19:07.011-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-10-02T03:19:07.012-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-02T03:19:07.013-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-02T03:19:07.027-07:00  INFO 13408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-02T03:19:07.027-07:00  INFO 13408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 207 ms
+2023-10-02T03:19:07.106-07:00  INFO 13408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-10-02T03:19:07.118-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-02T03:19:07.123-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Started Application in 0.332 seconds (process running for 380.085)
+2023-10-02T03:19:07.124-07:00  INFO 13408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-10-02T03:19:28.676-07:00  INFO 13408 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-10-02T03:19:28.692-07:00  INFO 13408 --- [Thread-15] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-10-02T03:19:28.763-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Starting Application using Java 17.0.5 with PID 13408 (D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation\target\classes started by Laxman in D:\Ashokit\24_JRTP\SpringBoot_Applications\04-LogFile_Creation)
+2023-10-02T03:19:28.764-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T03:19:29.046-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-10-02T03:19:29.047-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-10-02T03:19:29.048-07:00  INFO 13408 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-10-02T03:19:29.079-07:00  INFO 13408 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-10-02T03:19:29.080-07:00  INFO 13408 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 314 ms
+2023-10-02T03:19:29.208-07:00  INFO 13408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-10-02T03:19:29.225-07:00  INFO 13408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-02T03:19:29.232-07:00  INFO 13408 --- [restartedMain] in.ashokit.Application                   : Started Application in 0.495 seconds (process running for 402.194)
+2023-10-02T03:19:29.233-07:00  INFO 13408 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-10-02T03:20:42.522-07:00  INFO 13408 --- [RMI TCP Connection(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-10-02T03:20:42.537-07:00  INFO 13408 --- [RMI TCP Connection(11)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]

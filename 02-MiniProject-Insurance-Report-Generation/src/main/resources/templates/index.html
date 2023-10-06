@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Insurance report Form</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  </head>
+  <body>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+
+ <div class="container"mt-5>
+		 <h2 align="center" >Reports</h2><br>
+		 <form th:action="@{/filter-data}" method="post" th:object="${search}">
+		 
+		 <table>
+			 <tr>
+				 <td>
+					 <label class="form-label">Plan Name</label>
+					 <select class="form-control" th:field="*{planName}">
+						 <option value="">- Plan Name -</option>
+						 <option th:each="name: ${plannamelist}" th:value="${name}" th:text="${name}" ></option>
+					 </select> 
+				
+				 </td>
+				 
+				 <td>
+					 <label class="form-label">Plan Status</label>
+					 <select class="form-control" th:field="*{planStatus}">
+						 <option value="">- Plan Status -</option>
+					<option th:each="status: ${planstatuslist}" th:value="${status}" th:text="${status}" ></option>
+					 </select>
+					 
+				 </td>
+				 
+				 <td>
+					<label class="form-label">Gender</label>
+					<select class="form-control" th:field="*{gender}">
+						 <option value="">- Gender -</option>
+						 <option value="male">Male</option>
+						 <option value="female">Female</option>
+						 
+					 </select> 
+				 </td>
+				 
+				  <td>
+					<label class="form-label">Start Date</label>
+					<input type="date" class="form-control" th:field="*{planStartDate}" /> 
+				 </td>
+				 
+				  <td>
+					<label class="form-label">End Date</label>
+					<input type="date" class="form-control" th:field="*{planEndDate}" />
+				 </td>
+				
+				 <td>
+				 <br>
+					&nbsp;&nbsp;&nbsp;&nbsp; <button type="submit" class="btn btn-primary" >Search</button>		
+				</td>
+				
+			 </tr>
+		 </table>
+		 </form>
+	 </div>
+	 <br><br>
+	 
+	 	<div class="container"mt-5>
+			 <h4>View Citizen Plans Records</h4>
+		 <table class="table table-bordered table-striped table-hover">
+			  <thead>
+			  <tr>
+			  <th>S.No</th>
+			  <th>Name</th>
+			  <th>Plan Name</th>
+			  <th>Plan Status</th>
+			  <th>Gender</th>
+			  <th>Mobile Number</th>
+			  <th>Email</th>
+			   <th>SSN</th>
+			</tr>
+			</thead>
+		<tbody>
+			<tr th:each="citizen:${citizens}">
+				<td th:text="${citizen.citizenId}"/>
+				<td th:text="${citizen.name}"/>
+				<td th:text="${citizen.planName}"/>
+				<td th:text="${citizen.planStatus}"/>
+				<td th:text="${citizen.gender}"/>
+				<td th:text="${citizen.phno}"/>		
+				<td th:text="${citizen.email}"/>
+				<td th:text="${citizen.ssn}"/>								
+			</tr>
+			<div th:if="${citizens==null or citizens.isEmpty()}">
+			<tr>
+			<td colspan="10" align="center" class="text-danger">No Records Found</tdcol>
+			</tr>
+			</div>
+		</tbody>
+	 </table>
+	 
+ </div> 
+ <div class="container text-center"mt-5>
+	 <td><a th:href="@{/excel}" class="btn btn-primary">Excel</a></td>
+	&nbsp;&nbsp;<td><a th:href="@{/pdf}" class="btn btn-danger">Pdf</a></td>
+ </div>
+  </body>
+</html>
